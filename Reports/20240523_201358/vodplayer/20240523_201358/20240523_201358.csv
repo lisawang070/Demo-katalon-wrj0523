@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+vodplayer,Chrome 124.0.0.0,,,23-05-2024 20:14:02,23-05-2024 20:15:21,1m - 18.524s,PASSED
+,,,,,,,
+Test Cases/case1-fromMyliveTovodplayer,Chrome 124.0.0.0,,,23-05-2024 20:14:02,23-05-2024 20:15:21,1m - 18.418s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,23-05-2024 20:14:02,23-05-2024 20:14:04,1.584s,PASSED
+"navigateToUrl(""https://login.koolearn.com/sso/toLogin.do?next_page=https%3A%2F%2Fstudy.koolearn.com%2Flive%2Findex"")",Chrome 124.0.0.0,,,23-05-2024 20:14:04,23-05-2024 20:14:05,1.405s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_login/div__QRcode""))",Chrome 124.0.0.0,,,23-05-2024 20:14:05,23-05-2024 20:14:06,0.388s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_login/div_""))",Chrome 124.0.0.0,,,23-05-2024 20:14:06,23-05-2024 20:14:38,32.213s,PASSED
+"setText(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_login/input__loginusername""), username4)",Chrome 124.0.0.0,,,23-05-2024 20:14:38,23-05-2024 20:14:39,0.897s,PASSED
+"setText(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_login/input__loginpassword""), password4)",Chrome 124.0.0.0,,,23-05-2024 20:14:39,23-05-2024 20:14:39,0.566s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_login/input__ant-checkbox-input""))",Chrome 124.0.0.0,,,23-05-2024 20:14:39,23-05-2024 20:14:40,0.499s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_login/div__loginbutton""))",Chrome 124.0.0.0,,,23-05-2024 20:14:40,23-05-2024 20:14:41,0.927s,PASSED
+delay(2),Chrome 124.0.0.0,,,23-05-2024 20:14:41,23-05-2024 20:14:43,2.023s,PASSED
+"setText(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_mylive/input__p-search__input""), ""巧记四六级核心词！"")",Chrome 124.0.0.0,,,23-05-2024 20:14:43,23-05-2024 20:14:43,0.560s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_mylive/i__clicksearchicon""))",Chrome 124.0.0.0,,,23-05-2024 20:14:43,23-05-2024 20:14:44,0.281s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_mylive/a_clickpalybackbutton""))",Chrome 124.0.0.0,,,23-05-2024 20:14:44,23-05-2024 20:14:45,1.022s,PASSED
+delay(2),Chrome 124.0.0.0,,,23-05-2024 20:14:45,23-05-2024 20:14:47,2.006s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom""))",Chrome 124.0.0.0,,,23-05-2024 20:14:47,23-05-2024 20:15:19,32.150s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div_speed""))",Chrome 124.0.0.0,,,23-05-2024 20:15:19,23-05-2024 20:15:19,0.006s,NOT_RUN
+delay(1),Chrome 124.0.0.0,,,23-05-2024 20:15:19,23-05-2024 20:15:20,1.437s,PASSED
+"click(findTestObject(""Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/span_1.25X""))",Chrome 124.0.0.0,,,23-05-2024 20:15:20,23-05-2024 20:15:20,0.003s,NOT_RUN
+closeBrowser(),Chrome 124.0.0.0,,,23-05-2024 20:15:20,23-05-2024 20:15:21,0.307s,PASSED

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__QRcode</name>
+   <tag></tag>
+   <elementGuidId>4e3772d1-cab1-4de4-89a2-8616c10977ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-login-wrap']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.z-\[1\]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fadb2502-fa5c-439e-9e30-900d2211b6a5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-[1] absolute top-0 right-0 w-[64px] h-[64px] cursor-pointer bg-qrcode</value>
+      <webElementGuid>af206e4a-eab5-47db-b05b-cbb7485e4233</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-login-wrap&quot;)/div[@class=&quot;dxlogin-root&quot;]/div[@class=&quot;w-[384px] h-[530px] bg-white rounded-[8px] relative&quot;]/div[@class=&quot;z-[1] absolute top-0 right-0 w-[64px] h-[64px] cursor-pointer bg-qrcode&quot;]</value>
+      <webElementGuid>127543c4-3d83-49e3-8549-296dfcb0f84e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-login-wrap']/div/div/div</value>
+      <webElementGuid>8db3804f-9ac2-4ab1-acad-10b7facd56a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div</value>
+      <webElementGuid>ecf8bd24-53f6-4160-adc1-93ebf12745a0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
