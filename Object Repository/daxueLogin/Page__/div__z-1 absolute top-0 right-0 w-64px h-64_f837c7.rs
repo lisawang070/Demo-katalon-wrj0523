@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__z-1 absolute top-0 right-0 w-64px h-64_f837c7</name>
+   <tag></tag>
+   <elementGuidId>5310215c-dea7-4386-b163-2b50b5d906db</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[3]/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bdc9267c-1a09-4566-8844-e2a151cf1ae7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-[1] absolute top-0 right-0 w-[64px] h-[64px] cursor-pointer bg-qrcode</value>
+      <webElementGuid>13f04ae2-fcc6-4558-ae01-6509f7a9a090</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;dxlogin-root&quot;]/div[@class=&quot;box-content w-screen h-screen fixed inset-x-0 bg-mask opacity-100 flex justify-center items-center top-0 left-0&quot;]/div[@class=&quot;w-[384px] h-[530px] bg-white rounded-[8px] relative&quot;]/div[@class=&quot;z-[1] absolute top-0 right-0 w-[64px] h-[64px] cursor-pointer bg-qrcode&quot;]</value>
+      <webElementGuid>f9328430-d5dc-4ebe-ae3a-d8cdcfff7820</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div</value>
+      <webElementGuid>dc5ecb01-1416-48e2-8bf8-7181bf7e8829</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
