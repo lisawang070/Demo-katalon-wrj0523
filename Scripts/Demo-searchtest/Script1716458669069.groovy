@@ -21,21 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://daxue.koolearn.com/')
 
-WebUI.click(findTestObject('Object Repository/daxueLogin/Page__/div__z-1 absolute top-0 right-0 w-64px h-64_f837c7'))
+WebUI.click(findTestObject('Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3'))
 
-WebUI.click(findTestObject('Object Repository/daxueLogin/Page__/div_'))
+WebUI.setText(findTestObject('Object Repository/Demo-searchtest/Page__/input__keyword'), '在职考研')
 
-WebUI.setText(findTestObject('Object Repository/daxueLogin/Page__/input__ant-input css-1gfrjrs ant-input-outl_3b6196'), 
-    'interfaceTest33')
+WebUI.click(findTestObject('Object Repository/Demo-searchtest/Page__/button_'))
 
-WebUI.setEncryptedText(findTestObject('Object Repository/daxueLogin/Page__/input__ant-input css-1gfrjrs ant-input-outl_59806d'), 
-    '5WbaaGOlRjI=')
+WebUI.switchToWindowTitle('新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班')
 
-WebUI.click(findTestObject('Object Repository/daxueLogin/Page__/input__ant-checkbox-input'))
-
-WebUI.click(findTestObject('Object Repository/daxueLogin/Page__/div__1'))
-
-WebUI.click(findTestObject('Object Repository/daxueLogin/Page__/span_25'))
+WebUI.click(findTestObject('Object Repository/Demo-searchtest/Page__,,,,,/div_2025'))
 
 WebUI.closeBrowser()
 
