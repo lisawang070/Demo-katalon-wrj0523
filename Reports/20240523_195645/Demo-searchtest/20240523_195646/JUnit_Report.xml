@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Demo-searchtest" time="21.144" tests="2" failures="0" errors="0">
+   <testsuite name="Demo-searchtest" tests="2" failures="0" errors="0" time="21.144" skipped="0" timestamp="23-05-2024T19:56:51" hostname="lisawang - localhost" id="Test Suites/Demo-searchtest">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/lisawang/Katalon Studio/Demo-searchtest-wrj0523/Reports/20240523_195645/Demo-searchtest/20240523_195646"/>
+         <property name="logFiles" value="/Users/lisawang/Katalon Studio/Demo-searchtest-wrj0523/Reports/20240523_195645/Demo-searchtest/20240523_195646/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="lisawang - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="48519ab21a9aa2f50fb0beb9f87ba665"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/Demo-searchtest" time="11.891" classname="Test Cases/Demo-searchtest" status="PASSED">
+         <system-out><![CDATA[23-05-2024T19:56:51 - [TEST_CASE][PASSED] - Test Cases/Demo-searchtest: Test Cases/Demo-searchtest
+
+23-05-2024T19:56:51 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+23-05-2024T19:56:51 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-05-2024T19:56:51 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-05-2024T19:56:52 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+23-05-2024T19:56:52 - [TEST_STEP][PASSED] - navigateToUrl("https://daxue.koolearn.com/"): Navigate to 'https://daxue.koolearn.com/' successfully
+
+23-05-2024T19:56:57 - [MESSAGE][PASSED] - Navigate to 'https://daxue.koolearn.com/' successfully
+
+23-05-2024T19:56:57 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3")): Object: 'Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3' is clicked on
+
+23-05-2024T19:56:58 - [MESSAGE][PASSED] - Object: 'Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3' is clicked on
+
+23-05-2024T19:56:58 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Demo-searchtest/Page__/input__keyword"), "在职考研"): Text '在职考研' is set on object 'Object Repository/Demo-searchtest/Page__/input__keyword'
+
+23-05-2024T19:56:59 - [MESSAGE][PASSED] - Text '在职考研' is set on object 'Object Repository/Demo-searchtest/Page__/input__keyword'
+
+23-05-2024T19:56:59 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Demo-searchtest/Page__/button_")): Object: 'Object Repository/Demo-searchtest/Page__/button_' is clicked on
+
+23-05-2024T19:57:00 - [MESSAGE][PASSED] - Object: 'Object Repository/Demo-searchtest/Page__/button_' is clicked on
+
+23-05-2024T19:57:00 - [TEST_STEP][PASSED] - switchToWindowTitle("新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班"): Switched to window with title: '新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班'
+
+23-05-2024T19:57:02 - [MESSAGE][PASSED] - Switched to window with title: '新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班'
+
+23-05-2024T19:57:02 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Demo-searchtest/Page__,,,,,/div_2025")): Object: 'Object Repository/Demo-searchtest/Page__,,,,,/div_2025' is clicked on
+
+23-05-2024T19:57:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Demo-searchtest/Page__,,,,,/div_2025' is clicked on
+
+23-05-2024T19:57:02 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+23-05-2024T19:57:03 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <testcase name="Test Cases/Demo-searchtest" time="9.179" classname="Test Cases/Demo-searchtest" status="PASSED">
+         <system-out><![CDATA[23-05-2024T19:57:03 - [TEST_CASE][PASSED] - Test Cases/Demo-searchtest: Test Cases/Demo-searchtest
+
+23-05-2024T19:57:03 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+23-05-2024T19:57:03 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-05-2024T19:57:03 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-05-2024T19:57:03 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+23-05-2024T19:57:03 - [TEST_STEP][PASSED] - navigateToUrl("https://daxue.koolearn.com/"): Navigate to 'https://daxue.koolearn.com/' successfully
+
+23-05-2024T19:57:07 - [MESSAGE][PASSED] - Navigate to 'https://daxue.koolearn.com/' successfully
+
+23-05-2024T19:57:07 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3")): Object: 'Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3' is clicked on
+
+23-05-2024T19:57:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3' is clicked on
+
+23-05-2024T19:57:07 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Demo-searchtest/Page__/input__keyword"), "在职考研"): Text '在职考研' is set on object 'Object Repository/Demo-searchtest/Page__/input__keyword'
+
+23-05-2024T19:57:09 - [MESSAGE][PASSED] - Text '在职考研' is set on object 'Object Repository/Demo-searchtest/Page__/input__keyword'
+
+23-05-2024T19:57:09 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Demo-searchtest/Page__/button_")): Object: 'Object Repository/Demo-searchtest/Page__/button_' is clicked on
+
+23-05-2024T19:57:09 - [MESSAGE][PASSED] - Object: 'Object Repository/Demo-searchtest/Page__/button_' is clicked on
+
+23-05-2024T19:57:09 - [TEST_STEP][PASSED] - switchToWindowTitle("新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班"): Switched to window with title: '新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班'
+
+23-05-2024T19:57:11 - [MESSAGE][PASSED] - Switched to window with title: '新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班'
+
+23-05-2024T19:57:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Demo-searchtest/Page__,,,,,/div_2025")): Object: 'Object Repository/Demo-searchtest/Page__,,,,,/div_2025' is clicked on
+
+23-05-2024T19:57:12 - [MESSAGE][PASSED] - Object: 'Object Repository/Demo-searchtest/Page__,,,,,/div_2025' is clicked on
+
+23-05-2024T19:57:12 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+23-05-2024T19:57:12 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-05-2024T19:56:51 - [TEST_SUITE][PASSED] - Demo-searchtest: Test Cases/Demo-searchtest]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

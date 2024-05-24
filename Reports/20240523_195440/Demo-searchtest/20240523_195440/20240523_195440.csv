@@ -1,0 +1,22 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Demo-searchtest,Chrome 124.0.0.0,,,23-05-2024 19:54:44,23-05-2024 19:55:03,18.491s,PASSED
+,,,,,,,
+Test Cases/Demo-searchtest,Chrome 124.0.0.0,https://daxue.koolearn.com/,product,23-05-2024 19:54:45,23-05-2024 19:54:55,9.961s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,23-05-2024 19:54:45,23-05-2024 19:54:46,1.804s,PASSED
+"navigateToUrl(""https://daxue.koolearn.com/"")",Chrome 124.0.0.0,,,23-05-2024 19:54:46,23-05-2024 19:54:50,3.480s,PASSED
+"click(findTestObject(""Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3""))",Chrome 124.0.0.0,,,23-05-2024 19:54:50,23-05-2024 19:54:51,0.665s,PASSED
+"setText(findTestObject(""Object Repository/Demo-searchtest/Page__/input__keyword""), ""在职考研"")",Chrome 124.0.0.0,,,23-05-2024 19:54:51,23-05-2024 19:54:52,1.282s,PASSED
+"click(findTestObject(""Object Repository/Demo-searchtest/Page__/button_""))",Chrome 124.0.0.0,,,23-05-2024 19:54:52,23-05-2024 19:54:53,0.715s,PASSED
+"switchToWindowTitle(""新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班"")",Chrome 124.0.0.0,,,23-05-2024 19:54:53,23-05-2024 19:54:54,1.487s,PASSED
+"click(findTestObject(""Object Repository/Demo-searchtest/Page__,,,,,/div_2025""))",Chrome 124.0.0.0,,,23-05-2024 19:54:54,23-05-2024 19:54:54,0.300s,PASSED
+closeBrowser(),Chrome 124.0.0.0,,,23-05-2024 19:54:54,23-05-2024 19:54:55,0.122s,PASSED
+,,,,,,,
+Test Cases/Demo-searchtest,Chrome 124.0.0.0,https://daxue.koolearn.com/,product,23-05-2024 19:54:55,23-05-2024 19:55:03,8.444s,PASSED
+"openBrowser("""")",Chrome 124.0.0.0,,,23-05-2024 19:54:55,23-05-2024 19:54:55,0.710s,PASSED
+"navigateToUrl(""https://daxue.koolearn.com/"")",Chrome 124.0.0.0,,,23-05-2024 19:54:55,23-05-2024 19:54:59,4.136s,PASSED
+"click(findTestObject(""Object Repository/Demo-searchtest/Page__/img__w-32px h-32px absolute top-0 right--48_3643d3""))",Chrome 124.0.0.0,,,23-05-2024 19:54:59,23-05-2024 19:55:00,0.310s,PASSED
+"setText(findTestObject(""Object Repository/Demo-searchtest/Page__/input__keyword""), ""在职考研"")",Chrome 124.0.0.0,,,23-05-2024 19:55:00,23-05-2024 19:55:01,0.917s,PASSED
+"click(findTestObject(""Object Repository/Demo-searchtest/Page__/button_""))",Chrome 124.0.0.0,,,23-05-2024 19:55:01,23-05-2024 19:55:01,0.741s,PASSED
+"switchToWindowTitle(""新东方在线官网_新东方旗下远程教育网站,新东方网络课堂,新东方网校,新东方官方网校,新东方网络课程,新东方考研辅导班"")",Chrome 124.0.0.0,,,23-05-2024 19:55:01,23-05-2024 19:55:03,1.169s,PASSED
+"click(findTestObject(""Object Repository/Demo-searchtest/Page__,,,,,/div_2025""))",Chrome 124.0.0.0,,,23-05-2024 19:55:03,23-05-2024 19:55:03,0.319s,PASSED
+closeBrowser(),Chrome 124.0.0.0,,,23-05-2024 19:55:03,23-05-2024 19:55:03,0.114s,PASSED

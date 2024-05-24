@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>case3-xdfPlayer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d7adce5e-29b9-49d9-81a7-2f011a63519a</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fa4c177a-38db-4c5a-8da0-df18891160e0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3467ffa5-80d4-4e4d-8e4a-a1c8932b388a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'18500527318'</defaultValue>
+      <description></description>
+      <id>fa4c177a-38db-4c5a-8da0-df18891160e0</id>
+      <masked>false</masked>
+      <name>username4</name>
+   </variable>
+   <variable>
+      <defaultValue>'aA111111'</defaultValue>
+      <description></description>
+      <id>3467ffa5-80d4-4e4d-8e4a-a1c8932b388a</id>
+      <masked>false</masked>
+      <name>password4</name>
+   </variable>
+</TestCaseEntity>

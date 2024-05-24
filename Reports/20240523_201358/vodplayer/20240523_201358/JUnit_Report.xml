@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="vodplayer" time="78.524" tests="1" failures="0" errors="0">
+   <testsuite name="vodplayer" tests="1" failures="0" errors="0" time="78.524" skipped="0" timestamp="23-05-2024T20:14:02" hostname="lisawang - localhost" id="Test Suites/vodplayer">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="/Users/lisawang/Katalon Studio/Demo-searchtest-wrj0523/Reports/20240523_201358/vodplayer/20240523_201358"/>
+         <property name="logFiles" value="/Users/lisawang/Katalon Studio/Demo-searchtest-wrj0523/Reports/20240523_201358/vodplayer/20240523_201358/execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="lisawang - localhost"/>
+         <property name="os" value="Mac OS X 64bit"/>
+         <property name="katalonVersion" value="9.4.0.212"/>
+         <property name="browser" value="Chrome 124.0.0.0"/>
+         <property name="hostAddress" value="127.0.0.1"/>
+         <property name="sessionId" value="a7238267964ce5a42780707f8d25d1ca"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Mac OS X"/>
+      </properties>
+      <testcase name="Test Cases/case1-fromMyliveTovodplayer" time="78.418" classname="Test Cases/case1-fromMyliveTovodplayer" status="PASSED">
+         <system-out><![CDATA[23-05-2024T20:14:02 - [TEST_CASE][PASSED] - Test Cases/case1-fromMyliveTovodplayer: Test Cases/case1-fromMyliveTovodplayer
+
+23-05-2024T20:14:02 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+23-05-2024T20:14:02 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+23-05-2024T20:14:02 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+23-05-2024T20:14:04 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+23-05-2024T20:14:04 - [TEST_STEP][PASSED] - navigateToUrl("https://login.koolearn.com/sso/toLogin.do?next_page=https%3A%2F%2Fstudy.koolearn.com%2Flive%2Findex"): Navigate to 'https://login.koolearn.com/sso/toLogin.do?next_page=https%3A%2F%2Fstudy.koolearn.com%2Flive%2Findex' successfully
+
+23-05-2024T20:14:05 - [MESSAGE][PASSED] - Navigate to 'https://login.koolearn.com/sso/toLogin.do?next_page=https%3A%2F%2Fstudy.koolearn.com%2Flive%2Findex' successfully
+
+23-05-2024T20:14:05 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_login/div__QRcode")): Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_login/div__QRcode' is clicked on
+
+23-05-2024T20:14:06 - [MESSAGE][PASSED] - Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_login/div__QRcode' is clicked on
+
+23-05-2024T20:14:06 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_login/div_")): Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_login/div_' is clicked on
+
+23-05-2024T20:14:37 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='p-login-wrap']/div/div/div[2]/div/div[2]/div[2]'. Please recheck the objects properties to make sure the desired element is located. 
+
+23-05-2024T20:14:37 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/case1-fromMyliveTovodplayer/Page_login/div_'. Try using Self-healing.
+
+23-05-2024T20:14:37 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='p-login-wrap']/div/div/div[2]/div/div[2]/div[2]'.
+
+23-05-2024T20:14:37 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '(.//*[normalize-space(text()) and normalize-space(.)='登录/注册'])[1]/following::div[1]'.
+
+23-05-2024T20:14:38 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: /Users/lisawang/Katalon Studio/Demo-searchtest-wrj0523/Reports/Self-healing/Object Repository/case1-fromMyliveTovodplayer/Page_login/div__neighbor.png
+
+23-05-2024T20:14:38 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/case1-fromMyliveTovodplayer/Page_login/div_' was broken. Propose an alternative one: '(.//*[normalize-space(text()) and normalize-space(.)='登录/注册'])[1]/following::div[1]'.
+
+23-05-2024T20:14:38 - [MESSAGE][PASSED] - Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_login/div_' is clicked on
+
+23-05-2024T20:14:38 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_login/input__loginusername"), username4): Text '18500527318' is set on object 'Object Repository/case1-fromMyliveTovodplayer/Page_login/input__loginusername'
+
+23-05-2024T20:14:39 - [MESSAGE][PASSED] - Text '18500527318' is set on object 'Object Repository/case1-fromMyliveTovodplayer/Page_login/input__loginusername'
+
+23-05-2024T20:14:39 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_login/input__loginpassword"), password4): Text 'aA111111' is set on object 'Object Repository/case1-fromMyliveTovodplayer/Page_login/input__loginpassword'
+
+23-05-2024T20:14:39 - [MESSAGE][PASSED] - Text 'aA111111' is set on object 'Object Repository/case1-fromMyliveTovodplayer/Page_login/input__loginpassword'
+
+23-05-2024T20:14:39 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_login/input__ant-checkbox-input")): Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_login/input__ant-checkbox-input' is clicked on
+
+23-05-2024T20:14:40 - [MESSAGE][PASSED] - Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_login/input__ant-checkbox-input' is clicked on
+
+23-05-2024T20:14:40 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_login/div__loginbutton")): Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_login/div__loginbutton' is clicked on
+
+23-05-2024T20:14:41 - [MESSAGE][PASSED] - Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_login/div__loginbutton' is clicked on
+
+23-05-2024T20:14:41 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+23-05-2024T20:14:43 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+23-05-2024T20:14:43 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_mylive/input__p-search__input"), "巧记四六级核心词！"): Text '巧记四六级核心词！' is set on object 'Object Repository/case1-fromMyliveTovodplayer/Page_mylive/input__p-search__input'
+
+23-05-2024T20:14:43 - [MESSAGE][PASSED] - Text '巧记四六级核心词！' is set on object 'Object Repository/case1-fromMyliveTovodplayer/Page_mylive/input__p-search__input'
+
+23-05-2024T20:14:43 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_mylive/i__clicksearchicon")): Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_mylive/i__clicksearchicon' is clicked on
+
+23-05-2024T20:14:44 - [MESSAGE][PASSED] - Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_mylive/i__clicksearchicon' is clicked on
+
+23-05-2024T20:14:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_mylive/a_clickpalybackbutton")): Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_mylive/a_clickpalybackbutton' is clicked on
+
+23-05-2024T20:14:45 - [MESSAGE][PASSED] - Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_mylive/a_clickpalybackbutton' is clicked on
+
+23-05-2024T20:14:45 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+23-05-2024T20:14:47 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+23-05-2024T20:14:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom")): Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom' is clicked on
+
+23-05-2024T20:15:18 - [MESSAGE][INFO] - Unable to find the element located by 'By.xpath: //div[@id='xdf-player_component_280D61B0-7D66-4B08-8696-017394F06099']'. Please recheck the objects properties to make sure the desired element is located. 
+
+23-05-2024T20:15:18 - [MESSAGE][WARNING] - [SELF-HEALING] Failed to find element with id 'Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom'. Try using Self-healing.
+
+23-05-2024T20:15:18 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='xdf-player_component_280D61B0-7D66-4B08-8696-017394F06099']'.
+
+23-05-2024T20:15:18 - [MESSAGE][INFO] - [SELF-HEALING] Failed Locator: '//div[@id='xdf-player_component_FE3AB6B1-F825-4E1B-95F5-7605199554DD']/div[3]'.
+
+23-05-2024T20:15:18 - [MESSAGE][INFO] - [SELF-HEALING] Working Locator: '//div[13]/div[3]'.
+
+23-05-2024T20:15:19 - [MESSAGE][INFO] - [SELF-HEALING] Screenshot: /Users/lisawang/Katalon Studio/Demo-searchtest-wrj0523/Reports/Self-healing/Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom_position.png
+
+23-05-2024T20:15:19 - [MESSAGE][WARNING] - [SELF-HEALING] The current locator of test object 'Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom' was broken. Propose an alternative one: '//div[13]/div[3]'.
+
+23-05-2024T20:15:19 - [MESSAGE][PASSED] - Object: 'Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom' is clicked on
+
+23-05-2024T20:15:19 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div_speed")): NOT_RUN: click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div_speed"))
+
+23-05-2024T20:15:19 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div_speed"))
+
+23-05-2024T20:15:19 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+23-05-2024T20:15:20 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+23-05-2024T20:15:20 - [TEST_STEP][NOT_RUN] - click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/span_1.25X")): NOT_RUN: click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/span_1.25X"))
+
+23-05-2024T20:15:20 - [MESSAGE][NOT_RUN] - NOT_RUN: click(findTestObject("Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/span_1.25X"))
+
+23-05-2024T20:15:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+23-05-2024T20:15:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[23-05-2024T20:14:02 - [TEST_SUITE][PASSED] - vodplayer: Test Cases/case1-fromMyliveTovodplayer]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

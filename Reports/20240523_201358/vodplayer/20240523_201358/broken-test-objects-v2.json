@@ -8,7 +8,7 @@
       "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027登录/注册\u0027])[1]/following::div[1]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/case1-fromMyliveTovodplayer/Page_login/div__neighbor.png"
+      "pathToScreenshot": "Reports/20240523_201358/vodplayer/20240523_201358/Object Repository/case1-fromMyliveTovodplayer/Page_login/div__neighbor.png"
     },
     {
       "approved": true,
@@ -18,17 +18,7 @@
       "proposedLocator": "//div[13]/div[3]",
       "proposedLocatorMethod": "XPATH",
       "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom_position.png"
-    },
-    {
-      "approved": true,
-      "testObjectId": "Object Repository/vodPlayer/case1-fromMyliveTovodPlayer/Page_vodplayer/div__xdf-player_pagebottom",
-      "brokenLocator": "//div[@id\u003d\u0027xdf-player_component_280D61B0-7D66-4B08-8696-017394F06099\u0027]",
-      "brokenLocatorMethod": "XPATH",
-      "proposedLocator": "//div[13]/div[3]",
-      "proposedLocatorMethod": "XPATH",
-      "recoveryMethod": "XPATH",
-      "pathToScreenshot": "Reports/Self-healing/Object Repository/vodPlayer/case1-fromMyliveTovodPlayer/Page_vodplayer/div__xdf-player_pagebottom_position.png"
+      "pathToScreenshot": "Reports/20240523_201358/vodplayer/20240523_201358/Object Repository/case1-fromMyliveTovodplayer/Page_vodplayer/div__xdf-player_pagebottom_position.png"
     }
   ]
 }

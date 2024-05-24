@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>case1-fromMyliveTovodPlayer</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a1bb503f-1be9-464a-8f32-0f88cf31aa29</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>98391f7e-742e-4046-9e67-3ec3285fa2ec</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e2691b02-f703-437f-9de5-bc5df97bd09a</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'18500527318'</defaultValue>
+      <description></description>
+      <id>98391f7e-742e-4046-9e67-3ec3285fa2ec</id>
+      <masked>false</masked>
+      <name>username4</name>
+   </variable>
+   <variable>
+      <defaultValue>'aA111111'</defaultValue>
+      <description></description>
+      <id>e2691b02-f703-437f-9de5-bc5df97bd09a</id>
+      <masked>false</masked>
+      <name>password4</name>
+   </variable>
+</TestCaseEntity>

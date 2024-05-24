@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/vodPlayer/case1-fromMyliveTovodPlayer/Page_vodplayer/div__xdf-player_pagebottom",
+      "brokenLocator": "//div[@id\u003d\u0027xdf-player_component_280D61B0-7D66-4B08-8696-017394F06099\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "//div[13]/div[3]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20240523_212501/vodPlayer/20240523_212501/Object Repository/vodPlayer/case1-fromMyliveTovodPlayer/Page_vodplayer/div__xdf-player_pagebottom_position.png"
+    }
+  ]
+}
