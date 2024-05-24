@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img__w-32px h-32px absolute top-0 right--48_3643d3</name>
+   <tag></tag>
+   <elementGuidId>5bc57233-d115-4f4b-a190-6dbf05d4e961</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//img[contains(@src,&quot;data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='16'%20cy='16'%20r='15'%20stroke='white'%20stroke-width='2'/%3e%3crect%20x='21.0016'%20y='22.3323'%20width='15.0588'%20height='1.88235'%20rx='0.941176'%20transform='rotate(-135%2021.0016%2022.3323)'%20fill='white'/%3e%3crect%20x='22.3323'%20y='11.6841'%20width='15.0588'%20height='1.88235'%20rx='0.941176'%20transform='rotate(135%2022.3323%2011.6841)'%20fill='white'/%3e%3c/svg%3e&quot;)]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.w-\[32px\]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1bd81c92-e610-49b3-97da-0e7feee16b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>w-[32px] h-[32px] absolute top-0 right-[-48px] cursor-pointer bolck</value>
+      <webElementGuid>1af98874-f675-40ca-9fbe-152a6d0cc722</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='16'%20cy='16'%20r='15'%20stroke='white'%20stroke-width='2'/%3e%3crect%20x='21.0016'%20y='22.3323'%20width='15.0588'%20height='1.88235'%20rx='0.941176'%20transform='rotate(-135%2021.0016%2022.3323)'%20fill='white'/%3e%3crect%20x='22.3323'%20y='11.6841'%20width='15.0588'%20height='1.88235'%20rx='0.941176'%20transform='rotate(135%2022.3323%2011.6841)'%20fill='white'/%3e%3c/svg%3e</value>
+      <webElementGuid>05bf79eb-db0b-440d-bbca-9cbdd028da98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;dxlogin-root&quot;]/div[@class=&quot;box-content w-screen h-screen fixed inset-x-0 bg-mask opacity-100 flex justify-center items-center top-0 left-0&quot;]/div[@class=&quot;w-[384px] h-[530px] bg-white rounded-[8px] relative&quot;]/img[@class=&quot;w-[32px] h-[32px] absolute top-0 right-[-48px] cursor-pointer bolck&quot;]</value>
+      <webElementGuid>2c9ffd0f-e726-4f0a-8af6-db37abd485ce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,&quot;data:image/svg+xml,%3csvg%20width='32'%20height='32'%20viewBox='0%200%2032%2032'%20fill='none'%20xmlns='http://www.w3.org/2000/svg'%3e%3ccircle%20cx='16'%20cy='16'%20r='15'%20stroke='white'%20stroke-width='2'/%3e%3crect%20x='21.0016'%20y='22.3323'%20width='15.0588'%20height='1.88235'%20rx='0.941176'%20transform='rotate(-135%2021.0016%2022.3323)'%20fill='white'/%3e%3crect%20x='22.3323'%20y='11.6841'%20width='15.0588'%20height='1.88235'%20rx='0.941176'%20transform='rotate(135%2022.3323%2011.6841)'%20fill='white'/%3e%3c/svg%3e&quot;)]</value>
+      <webElementGuid>c1540f7a-7d4e-44c5-8e71-4b52e3fa64cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/img</value>
+      <webElementGuid>b5d397ff-dfad-48bc-805b-3ad9808f651c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = concat(&quot;data:image/svg+xml,%3csvg%20width=&quot; , &quot;'&quot; , &quot;32&quot; , &quot;'&quot; , &quot;%20height=&quot; , &quot;'&quot; , &quot;32&quot; , &quot;'&quot; , &quot;%20viewBox=&quot; , &quot;'&quot; , &quot;0%200%2032%2032&quot; , &quot;'&quot; , &quot;%20fill=&quot; , &quot;'&quot; , &quot;none&quot; , &quot;'&quot; , &quot;%20xmlns=&quot; , &quot;'&quot; , &quot;http://www.w3.org/2000/svg&quot; , &quot;'&quot; , &quot;%3e%3ccircle%20cx=&quot; , &quot;'&quot; , &quot;16&quot; , &quot;'&quot; , &quot;%20cy=&quot; , &quot;'&quot; , &quot;16&quot; , &quot;'&quot; , &quot;%20r=&quot; , &quot;'&quot; , &quot;15&quot; , &quot;'&quot; , &quot;%20stroke=&quot; , &quot;'&quot; , &quot;white&quot; , &quot;'&quot; , &quot;%20stroke-width=&quot; , &quot;'&quot; , &quot;2&quot; , &quot;'&quot; , &quot;/%3e%3crect%20x=&quot; , &quot;'&quot; , &quot;21.0016&quot; , &quot;'&quot; , &quot;%20y=&quot; , &quot;'&quot; , &quot;22.3323&quot; , &quot;'&quot; , &quot;%20width=&quot; , &quot;'&quot; , &quot;15.0588&quot; , &quot;'&quot; , &quot;%20height=&quot; , &quot;'&quot; , &quot;1.88235&quot; , &quot;'&quot; , &quot;%20rx=&quot; , &quot;'&quot; , &quot;0.941176&quot; , &quot;'&quot; , &quot;%20transform=&quot; , &quot;'&quot; , &quot;rotate(-135%2021.0016%2022.3323)&quot; , &quot;'&quot; , &quot;%20fill=&quot; , &quot;'&quot; , &quot;white&quot; , &quot;'&quot; , &quot;/%3e%3crect%20x=&quot; , &quot;'&quot; , &quot;22.3323&quot; , &quot;'&quot; , &quot;%20y=&quot; , &quot;'&quot; , &quot;11.6841&quot; , &quot;'&quot; , &quot;%20width=&quot; , &quot;'&quot; , &quot;15.0588&quot; , &quot;'&quot; , &quot;%20height=&quot; , &quot;'&quot; , &quot;1.88235&quot; , &quot;'&quot; , &quot;%20rx=&quot; , &quot;'&quot; , &quot;0.941176&quot; , &quot;'&quot; , &quot;%20transform=&quot; , &quot;'&quot; , &quot;rotate(135%2022.3323%2011.6841)&quot; , &quot;'&quot; , &quot;%20fill=&quot; , &quot;'&quot; , &quot;white&quot; , &quot;'&quot; , &quot;/%3e%3c/svg%3e&quot;)]</value>
+      <webElementGuid>20d84fa1-1ff0-41e0-9235-76cf01751dab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>%Users%lisawang%Katalon Studio%Demo-searchtest-wrj0523%Demo-searchtest-wrj0523.prj</name>
+	<name>%Users%madongju%git%Demo-katalon-wrj0523%Demo-katalon-wrj0523.prj</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -26,7 +26,9 @@
 			</matcher>
 		</filter>
 		<filter>
+
 			<id>1716458483846</id>
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -35,6 +37,7 @@
 			</matcher>
 		</filter>
 		<filter>
+
 			<id>1716462280686</id>
 			<name></name>
 			<type>10</type>
@@ -44,7 +47,9 @@
 			</matcher>
 		</filter>
 		<filter>
+
 			<id>1716462280691</id>
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -53,7 +58,9 @@
 			</matcher>
 		</filter>
 		<filter>
+
 			<id>1716464603573</id>
+
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -62,7 +69,9 @@
 			</matcher>
 		</filter>
 		<filter>
+
 			<id>1716464603579</id>
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -71,7 +80,9 @@
 			</matcher>
 		</filter>
 		<filter>
+
 			<id>1716465268666</id>
+
 			<name></name>
 			<type>10</type>
 			<matcher>
@@ -80,7 +91,9 @@
 			</matcher>
 		</filter>
 		<filter>
+
 			<id>1716465268691</id>
+
 			<name></name>
 			<type>6</type>
 			<matcher>
@@ -89,7 +102,9 @@
 			</matcher>
 		</filter>
 		<filter>
+
 			<id>1716465720504</id>
+
 			<name></name>
 			<type>10</type>
 			<matcher>
