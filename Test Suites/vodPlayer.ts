@@ -12,7 +12,7 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>7baa6fdd-dca0-4b26-a3d3-7d6fa1dee93e</testSuiteGuid>
    <testCaseLink>
-      <guid>b5d740a4-0eef-4ab7-96f0-ad99d5d4b0ec</guid>
+      <guid>96562921-52a4-44a8-a92c-28dd3a31ba62</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/vodPlayer/case1-fromMyliveTovodPlayer</testCaseId>
@@ -28,6 +28,44 @@
          <type>DEFAULT</type>
          <value></value>
          <variableId>e2691b02-f703-437f-9de5-bc5df97bd09a</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>e4f75bc4-7271-4d5e-b517-f8986412e2dc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/vodPlayer/case2-fromMystudyTovodPlayer</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>851e03f1-eecb-48e3-a01f-d58d71982715</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ec2873b1-ed58-40e2-bf47-216fa843e379</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>9874169b-4070-4786-9c17-1c9a55d4d0d2</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/vodPlayer/case3-vodPlayer</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>786a149d-a0b0-4d26-ab50-3fd61c625482</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>86e9aeed-41fd-4316-b858-433593023d58</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

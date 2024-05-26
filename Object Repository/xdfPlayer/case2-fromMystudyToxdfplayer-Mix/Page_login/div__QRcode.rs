@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__QRcode</name>
+   <tag></tag>
+   <elementGuidId>93bd960e-ffb4-4d36-b1ae-703268dc1f4d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='p-login-wrap']/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f7d13f82-2fd8-41ac-aba8-933852ea32cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>z-[1] absolute top-0 right-0 w-[64px] h-[64px] cursor-pointer bg-qrcode</value>
+      <webElementGuid>0f19ebd8-5493-4648-9f01-117e494ef800</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;p-login-wrap&quot;)/div[@class=&quot;dxlogin-root&quot;]/div[@class=&quot;w-[384px] h-[530px] bg-white rounded-[8px] relative&quot;]/div[@class=&quot;z-[1] absolute top-0 right-0 w-[64px] h-[64px] cursor-pointer bg-qrcode&quot;]</value>
+      <webElementGuid>0f7ff3e8-59a6-47cc-90b6-48940449d387</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='p-login-wrap']/div/div/div</value>
+      <webElementGuid>6a117ef1-f05c-4114-9088-080bffab4ed5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div/div/div</value>
+      <webElementGuid>791ff84b-c73a-4edf-ba90-c9bff4b14b2d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

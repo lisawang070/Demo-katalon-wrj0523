@@ -18,17 +18,17 @@
       <variableId>3467ffa5-80d4-4e4d-8e4a-a1c8932b388a</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>'18500527318'</defaultValue>
+      <defaultValue>'学员9eqy8'</defaultValue>
       <description></description>
       <id>fa4c177a-38db-4c5a-8da0-df18891160e0</id>
       <masked>false</masked>
-      <name>username4</name>
+      <name>username</name>
    </variable>
    <variable>
       <defaultValue>'aA111111'</defaultValue>
       <description></description>
       <id>3467ffa5-80d4-4e4d-8e4a-a1c8932b388a</id>
       <masked>false</masked>
-      <name>password4</name>
+      <name>password</name>
    </variable>
 </TestCaseEntity>

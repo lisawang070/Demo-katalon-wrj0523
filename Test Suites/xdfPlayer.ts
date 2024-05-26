@@ -12,7 +12,45 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>e011efa1-5865-442b-95b7-33b0dd24f780</testSuiteGuid>
    <testCaseLink>
-      <guid>d42ffd79-3722-4751-91e1-aa2def173343</guid>
+      <guid>d1ce4319-420a-417c-852e-3f0f6eef25d0</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/xdfPlayer/case1-fromMystudyToxdfPlayer-Tongyong</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>6e84ad5f-19b6-40cb-9c27-318de943caf4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>8fa630c8-2be4-426c-a703-85c3b8a56c88</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>b4b7fafd-2a4b-4772-b1d4-8ab40d01cd42</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/xdfPlayer/case2-fromMystudyToxdfPlayer-Mix</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>ff010f7e-aa6f-4478-959e-324e4241896e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>5f61c9d7-f823-4038-9312-bd4eec06eaed</variableId>
+      </variableLink>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>90026806-2fac-4519-bf3b-ca60c05bf6c8</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/xdfPlayer/case3-xdfPlayer</testCaseId>

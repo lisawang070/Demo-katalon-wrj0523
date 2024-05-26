@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_2022VIP-new</name>
+   <tag></tag>
+   <elementGuidId>f8faa30c-1ee3-470e-bbc9-cd0232c8692f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='进入学习'])[2]/following::span[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.p-list__item-title__inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;【测试】2022考研直通车【政治长线VIP】（大咖版）秒杀产品&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bab89066-a2f5-40d3-b61f-9466802a479c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>p-list__item-title__inner</value>
+      <webElementGuid>f6604a11-48e8-4ac8-bb64-77e477939af6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  
+                【测试】2022考研直通车【政治长线VIP】（大咖版）秒杀产品
+            </value>
+      <webElementGuid>b8353285-4650-4701-8680-578488cba0f4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;home-content&quot;]/div[@class=&quot;i-wrap&quot;]/div[@class=&quot;i-wrap__main&quot;]/div[@class=&quot;p-list&quot;]/div[@class=&quot;p-list__group&quot;]/div[@class=&quot;p-list__item p-list__item--goto-study&quot;]/div[@class=&quot;p-list__main&quot;]/a[@class=&quot;p-list__item-title&quot;]/span[@class=&quot;p-list__item-title__inner&quot;]</value>
+      <webElementGuid>1533e8b4-7486-4be5-bde9-7aef14760bbe</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='进入学习'])[2]/following::span[1]</value>
+      <webElementGuid>6351d7f4-8a50-4177-a4f4-580bccb1e47b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='置顶课程'])[1]/following::span[1]</value>
+      <webElementGuid>b1ce58c4-5779-47f9-b74f-568cc40a4ad3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='有效时间：至2026-12-31'])[1]/preceding::span[1]</value>
+      <webElementGuid>2c132e8a-a220-49f7-99fa-07892da34679</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='【测试】2022考研直通车【政治长线VIP】（大咖版）秒杀产品']/parent::*</value>
+      <webElementGuid>29a2aab0-74e9-46d1-b5db-3a69897173a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/span</value>
+      <webElementGuid>96cf913a-fce0-46be-a4a3-0a35797c12db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  
+                【测试】2022考研直通车【政治长线VIP】（大咖版）秒杀产品
+            ' or . = '  
+                【测试】2022考研直通车【政治长线VIP】（大咖版）秒杀产品
+            ')]</value>
+      <webElementGuid>5c1774b5-4cb1-4be2-9ae2-b5bcbffca295</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

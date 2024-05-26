@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__player-bottom-playbutton</name>
+   <tag></tag>
+   <elementGuidId>1e239232-2b6c-4fb6-a5b8-b4f983847563</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jp-player-wrap']/dx-player/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-player-controller-bottom-left-btn.dx-player-controller-bottom-left-btn-pause</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^03:26/23:41$/ >> div >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ec100903-004c-480d-99c0-ee8f356cb9d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-player-controller-bottom-left-btn dx-player-controller-bottom-left-btn-pause</value>
+      <webElementGuid>53ab9096-668b-48f4-be98-d372164dcbec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jp-player-wrap&quot;)/dx-player[1]/div[@class=&quot;dx-player&quot;]/div[@class=&quot;dx-player-controller&quot;]/div[@class=&quot;dx-player-controller-bottom&quot;]/div[@class=&quot;dx-player-controller-bottom-left&quot;]/div[@class=&quot;dx-player-controller-bottom-left-btn dx-player-controller-bottom-left-btn-pause&quot;]</value>
+      <webElementGuid>b3b574b0-2a6c-4b55-b9e0-5c3aaf59ace8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jp-player-wrap']/dx-player/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>15aa0c6c-f3c4-4e45-bde1-dd2bb2c55013</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dx-player/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>ac3ce47a-60c1-45f6-8838-f6d1ec8abff8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

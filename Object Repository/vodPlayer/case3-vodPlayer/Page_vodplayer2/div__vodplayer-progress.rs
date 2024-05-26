@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__vodplayer-progress</name>
+   <tag></tag>
+   <elementGuidId>3e37edcb-1be7-4bb6-96e0-7b5ab8569ed0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='xdf-player_component_DDF1D58A-90F5-4C44-8313-A5E17E1E2E22']/div[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.prism-progress-cursor.cursor-hover</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c74d4c11-b40e-48e4-b4d8-4bb1fc2a0b6a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>prism-progress-cursor cursor-hover</value>
+      <webElementGuid>46d1d593-03f8-4b16-9272-5a195dfddae6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;xdf-player_component_DDF1D58A-90F5-4C44-8313-A5E17E1E2E22&quot;)/div[@class=&quot;prism-progress-cursor cursor-hover&quot;]</value>
+      <webElementGuid>29e1cee1-655c-41ba-86bd-7d0c9a6c4d25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='xdf-player_component_DDF1D58A-90F5-4C44-8313-A5E17E1E2E22']/div[5]</value>
+      <webElementGuid>59dde3bc-55ed-477b-8a2d-4769fc9bf77b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[1]/preceding::div[2]</value>
+      <webElementGuid>3ff4be57-228d-4ca1-b38d-4755385e5154</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='倍速'])[1]/preceding::div[4]</value>
+      <webElementGuid>05dc3d91-a60d-4434-88dc-5ae33f122ef1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[5]</value>
+      <webElementGuid>87f98be1-fb49-4a35-96a3-3e6c884f9146</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

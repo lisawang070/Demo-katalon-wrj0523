@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__dx-player-controller-bottom-left-btn d_c49935</name>
+   <tag></tag>
+   <elementGuidId>500e40fc-72c4-480b-a378-bb7b199358e6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='jp-player-wrap']/dx-player/div/div[2]/div[2]/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.dx-player-controller-bottom-left-btn.dx-player-controller-bottom-left-btn-play</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>bf680751-7ba4-40b6-b4dc-8833ce096e0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>dx-player-controller-bottom-left-btn dx-player-controller-bottom-left-btn-play</value>
+      <webElementGuid>155efd19-10c1-473c-9412-a53268f1bfb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;jp-player-wrap&quot;)/dx-player[1]/div[@class=&quot;dx-player&quot;]/div[@class=&quot;dx-player-controller&quot;]/div[@class=&quot;dx-player-controller-bottom&quot;]/div[@class=&quot;dx-player-controller-bottom-left&quot;]/div[@class=&quot;dx-player-controller-bottom-left-btn dx-player-controller-bottom-left-btn-play&quot;]</value>
+      <webElementGuid>dec63582-ce29-4d4e-96da-16f7bb5d72c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='jp-player-wrap']/dx-player/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>458e8681-4ba2-44a3-9108-5742b0a3a377</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//dx-player/div/div[2]/div[2]/div/div</value>
+      <webElementGuid>1e4f24fa-076b-4152-b708-021557fa3581</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
